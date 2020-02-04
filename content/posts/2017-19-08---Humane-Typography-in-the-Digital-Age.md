@@ -1,9 +1,9 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+title: TIL 1일차
+date: "2020-02-02T12:40:32.169Z"
 template: "post"
 draft: false
-slug: "humane-typography-in-the-digital-age"
+slug: "til1"
 category: "Typography"
 tags:
   - "Design"
@@ -12,6 +12,8 @@ tags:
 description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
 socialImage: "/media/42-line-bible.jpg"
 ---
+
+# 진짜 될까?????
 
 - [The first transition](#the-first-transition)
 - [The digital age](#the-digital-age)
